@@ -2,7 +2,10 @@
 public class demo {
 
 	public demo() {
-		// TODO Auto-generated constructor stub
+	publis static void main (String[] args) {
+
+		System.out.println("Hello World!");		
+
 	}
 
 }
